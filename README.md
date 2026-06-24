@@ -21,6 +21,12 @@ The primary objective is to extract data from multiple CSV files, perform data c
 | VS Code    | Development Environment          |
 
 ---
+## Dataset Source
+
+The project uses the Olist Brazilian E-Commerce Dataset available on Kaggle.
+
+Dataset Link:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## 📂 Dataset Description
 
